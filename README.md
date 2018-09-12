@@ -1,2 +1,2 @@
-# smart-brain-api
+# smart-brain-api server
 face detector
